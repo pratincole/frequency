@@ -1,0 +1,4 @@
+compile:
+javac -g -cp path/to/jsoup-1.10.3.jar src/freq/Main.java src/freq/Letter.java
+run:
+java -cp path/to/jsoup-1.10.3.jar:src freq.Main
